@@ -1,0 +1,22 @@
+Last login: Thu Oct 13 15:31:11 on ttys000
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % sloc "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment-1/script-0.py"
+
+---------- Result ------------
+
+            Physical :  19
+              Source :  8
+             Comment :  4
+ Single-line comment :  1
+       Block comment :  3
+               Mixed :  1
+ Empty block comment :  0
+               Empty :  8
+               To Do :  0
+
+Number of files read :  1
+
+----------------------------
+
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % 
+
+

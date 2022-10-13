@@ -1,0 +1,22 @@
+Last login: Thu Oct 13 15:31:48 on ttys000
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % sloc "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment-1/HelloWorld.java"
+
+---------- Result ------------
+
+            Physical :  146
+              Source :  132
+             Comment :  0
+ Single-line comment :  0
+       Block comment :  0
+               Mixed :  0
+ Empty block comment :  0
+               Empty :  14
+               To Do :  0
+
+Number of files read :  1
+
+----------------------------
+
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % 
+
+
