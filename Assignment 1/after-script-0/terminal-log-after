@@ -1,0 +1,63 @@
+Last login: Wed Oct 19 14:04:49 on ttys000
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % black "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py"
+All done! ✨ 🍰 ✨
+1 file left unchanged.
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % pylint "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py"
+************* Module script_0_after
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:6:0: W0105: String statement has no effect (pointless-string-statement)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:14:0: E1101: Module 'pygame' has no 'init' member (no-member)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:18:0: C0103: Constant name "hue" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:25:0: C0103: Constant name "x_separator" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:26:0: C0103: Constant name "y_separator" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:28:0: C0103: Constant name "rows" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:29:0: C0103: Constant name "columns" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:30:0: C0103: Constant name "screen_size" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:32:0: C0103: Constant name "x_offset" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:33:0: C0103: Constant name "y_offset" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:38:0: C0103: Constant name "theta_spacing" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:39:0: C0103: Constant name "phi_spacing" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:41:0: C0103: Constant name "chars" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:51:12: C0103: Argument name "h" doesn't conform to snake_case naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:51:15: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:51:18: C0103: Argument name "v" doesn't conform to snake_case naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:51:12: W0621: Redefining name 'h' from outer scope (line 82) (redefined-outer-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:56:25: W0621: Redefining name 'x_start' from outer scope (line 23) (redefined-outer-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:56:34: W0621: Redefining name 'y_start' from outer scope (line 23) (redefined-outer-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:98:15: R1716: Simplify chained comparison between the operands (chained-comparison)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:103:8: C0103: Constant name "y_start" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:105:4: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:113:12: C0103: Constant name "x_start" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:122:25: E1101: Module 'pygame' has no 'QUIT' member (no-member)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:124:25: E1101: Module 'pygame' has no 'KEYDOWN' member (no-member)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:125:28: E1101: Module 'pygame' has no 'K_ESCAPE' member (no-member)
+
+------------------------------------------------------------------
+Your code has been rated at 4.47/10 (previous run: 4.47/10, +0.00)
+
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % mypy "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py"
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:99: error: No overload variant of "__setitem__" of "list" matches argument types "int", "float"
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:99: note: Possible overload variants:
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:99: note:     def __setitem__(self, SupportsIndex, int) -> None
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:99: note:     def __setitem__(self, slice, Iterable[int]) -> None
+Found 1 error in 1 file (checked 1 source file)
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % pycodestyle "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py"
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py:84:13: E741 ambiguous variable name 'l'
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % sloc "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_after.py"
+
+---------- Result ------------
+
+            Physical :  126
+              Source :  82
+             Comment :  26
+ Single-line comment :  16
+       Block comment :  10
+               Mixed :  12
+ Empty block comment :  1
+               Empty :  31
+               To Do :  0
+
+Number of files read :  1
+
+----------------------------
+
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % 

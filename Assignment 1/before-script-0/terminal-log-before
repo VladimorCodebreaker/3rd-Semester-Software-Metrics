@@ -1,0 +1,175 @@
+Last login: Wed Oct 19 12:54:42 on ttys000
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % sloc "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py"
+
+---------- Result ------------
+
+            Physical :  155
+              Source :  93
+             Comment :  27
+ Single-line comment :  17
+       Block comment :  10
+               Mixed :  12
+ Empty block comment :  1
+               Empty :  48
+               To Do :  0
+
+Number of files read :  1
+
+----------------------------
+
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % pylint "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py"
+************* Module script_0_before
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:1:43: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:3:3: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:11:3: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:19:13: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:21:11: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:23:15: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:27:13: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:29:23: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:30:17: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:31:7: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:36:23: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:38:16: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:39:16: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:41:28: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:43:28: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:45:22: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:48:33: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:53:0: C0301: Line too long (105/100) (line-too-long)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:57:49: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:59:58: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:121:52: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:122:19: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:124:28: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:126:66: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:127:66: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:129:34: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:130:48: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:131:34: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:134:34: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:135:23: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:136:48: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:137:34: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:145:37: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:147:38: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:150:0: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:151:41: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:153:45: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:154:0: C0303: Trailing whitespace (trailing-whitespace)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:155:0: C0304: Final newline missing (missing-final-newline)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:3:0: W0105: String statement has no effect (pointless-string-statement)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:19:0: C0413: Import "import pygame" should be placed at the top of the module (wrong-import-position)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:21:0: C0413: Import "import math" should be placed at the top of the module (wrong-import-position)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:23:0: C0413: Import "import colorsys" should be placed at the top of the module (wrong-import-position)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:27:0: E1101: Module 'pygame' has no 'init' member (no-member)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:31:0: C0103: Constant name "hue" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:38:0: C0103: Constant name "x_separator" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:39:0: C0103: Constant name "y_separator" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:41:0: C0103: Constant name "rows" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:42:0: C0103: Constant name "columns" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:43:0: C0103: Constant name "screen_size" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:45:0: C0103: Constant name "x_offset" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:46:0: C0103: Constant name "y_offset" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:52:0: C0103: Constant name "theta_spacing" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:53:0: C0103: Constant name "phi_spacing" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:55:0: C0103: Constant name "chars" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:64:0: C0116: Missing function or method docstring (missing-function-docstring)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:64:12: C0103: Argument name "h" doesn't conform to snake_case naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:64:15: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:64:18: C0103: Argument name "v" doesn't conform to snake_case naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:64:12: W0621: Redefining name 'h' from outer scope (line 99) (redefined-outer-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:70:0: C0116: Missing function or method docstring (missing-function-docstring)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:70:25: W0621: Redefining name 'x_start' from outer scope (line 36) (redefined-outer-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:70:34: W0621: Redefining name 'y_start' from outer scope (line 36) (redefined-outer-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:80:0: C0103: Constant name "run" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:115:15: R1716: Simplify chained comparison between the operands (chained-comparison)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:122:8: C0103: Constant name "y_start" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:124:4: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:135:12: C0103: Constant name "x_start" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:147:25: E1101: Module 'pygame' has no 'QUIT' member (no-member)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:149:12: C0103: Constant name "run" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:151:25: E1101: Module 'pygame' has no 'KEYDOWN' member (no-member)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:153:28: E1101: Module 'pygame' has no 'K_ESCAPE' member (no-member)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:155:16: C0103: Constant name "run" doesn't conform to UPPER_CASE naming style (invalid-name)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:21:0: C0411: standard import "import math" should be placed before "import pygame" (wrong-import-order)
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:23:0: C0411: standard import "import colorsys" should be placed before "import pygame" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % mypy "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py"
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:116: error: No overload variant of "__setitem__" of "list" matches argument types "int", "float"
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:116: note: Possible overload variants:
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:116: note:     def __setitem__(self, SupportsIndex, int) -> None
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:116: note:     def __setitem__(self, slice, Iterable[int]) -> None
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:126: error: Incompatible types in assignment (expression has type "float", variable has type "int")
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:127: error: Incompatible types in assignment (expression has type "float", variable has type "int")
+Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:143: error: Incompatible types in assignment (expression has type "float", variable has type "int")
+Found 4 errors in 1 file (checked 1 source file)
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % pycodestyle "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py"
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:1:44: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:3:4: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:11:4: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:19:1: E303 too many blank lines (7)
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:19:1: E402 module level import not at top of file
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:19:14: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:21:1: E402 module level import not at top of file
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:21:12: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:23:1: E402 module level import not at top of file
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:23:16: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:27:1: E303 too many blank lines (3)
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:27:14: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:29:24: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:30:18: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:31:8: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:36:24: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:38:17: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:39:17: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:41:29: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:43:29: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:45:23: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:48:34: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:52:1: E303 too many blank lines (3)
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:53:80: E501 line too long (105 > 79 characters)
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:57:50: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:59:59: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:60:80: E501 line too long (94 > 79 characters)
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:64:1: E302 expected 2 blank lines, found 1
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:70:1: E303 too many blank lines (3)
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:70:43: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:80:1: E305 expected 2 blank lines after class or function definition, found 1
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:82:10: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:89:42: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:93:9: E303 too many blank lines (3)
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:93:44: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:101:13: E741 ambiguous variable name 'l'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:121:5: E303 too many blank lines (3)
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:121:51: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:121:53: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:122:20: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:124:27: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:124:29: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:126:67: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:127:67: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:129:33: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:129:35: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:130:49: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:131:35: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:134:35: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:135:24: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:136:49: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:137:35: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:141:5: E303 too many blank lines (3)
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:145:36: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:145:38: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:147:37: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:147:39: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:150:1: W293 blank line contains whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:151:40: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:151:42: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:153:44: E203 whitespace before ':'
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:153:46: W291 trailing whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:154:1: W293 blank line contains whitespace
+/Users/vladimirschmadlak/Documents/Code/University/Semester 3/Software Metrics Exam/Assignment 1/script_0_before.py:155:28: W292 no newline at end of file
+vladimirschmadlak@MacBook-Air-von-Vladimir ~ % 
