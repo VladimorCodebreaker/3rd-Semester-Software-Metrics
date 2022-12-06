@@ -1,5 +1,6 @@
 """############## Performance Measurement Tool | Assignment 2 ##############"""
 import pprint
+import json
 from collections import defaultdict
 from selenium import webdriver
 
@@ -28,11 +29,15 @@ def calc_average():
 
 
 def write_to_file():
-    """Write to a CSV file"""
+    """Write to a CSV / JSON file"""
     with open("result.csv", "w", encoding="utf-8") as file:
         file.write("Name, Duration\n\n")
         for key, value in dict.items():
             file.write(f"{key}, {str(value)}\n")
+
+    with open("result.json", "w", encoding="utf-8") as file:
+        output = json.dumps(dict, indent=4)
+        file.write(f'\n {{\n "Name + Duration": {output}}}\n')
 
 
 if __name__ == "__main__":
