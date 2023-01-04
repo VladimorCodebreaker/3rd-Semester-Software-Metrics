@@ -9,3 +9,5 @@ def load_exponent(first_arg, second_arg):
     if (isinstance(first_arg, bool) or isinstance(second_arg, bool)):
         raise TypeError(f"Arguments cannot be of type 'bool' ! {type(first_arg)} {type(second_arg)}")
     return math.ldexp(first_arg, second_arg)
+
+load_exponent(-5, 2)
